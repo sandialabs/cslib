@@ -1,13 +1,10 @@
 This is the the Client/Server messaging library (CSlib).
 
-CSLib website: http://cslib.sandia.gov
-
 Contact author:
 
 Steve Plimpton
 Sandia National Laboratories
-sjplimp@sandia.gov
-http://www.sandia.gov/~sjplimp
+https://sjplimp.github.io/
 
 The CSlib is distributed as open-source code under the modified
 Berkeley Software Distribution (BSD) License.  See the accompanying
